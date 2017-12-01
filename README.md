@@ -1,2 +1,2 @@
 # grid
-Glitch remix to practice CSS Grid layou
+Glitch remix to practice CSS Grid layout.
